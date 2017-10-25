@@ -1,0 +1,13 @@
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\Inventory.Data.dll.config
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\Inventory.Data.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\Inventory.Data.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\EntityFramework.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\EntityFramework.xml
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\obj\Debug\Inventory.Data.csprojResolveAssemblyReference.cache
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\obj\Debug\Inventory.Data.csproj.CoreCompileInputs.cache
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\obj\Debug\Inventory.Data.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\obj\Debug\Inventory.Data.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\Inventory.Business.Entities.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Data\bin\Debug\Inventory.Business.Entities.pdb

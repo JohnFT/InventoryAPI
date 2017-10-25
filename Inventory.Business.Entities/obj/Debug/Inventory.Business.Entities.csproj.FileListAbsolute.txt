@@ -1,0 +1,5 @@
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Business.Entities\bin\Debug\Inventory.Business.Entities.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Business.Entities\bin\Debug\Inventory.Business.Entities.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Business.Entities\obj\Debug\Inventory.Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Business.Entities\obj\Debug\Inventory.Business.Entities.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.Business.Entities\obj\Debug\Inventory.Business.Entities.pdb

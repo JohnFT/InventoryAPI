@@ -1,0 +1,15 @@
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Inventory.ConsoleClient.exe.config
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Inventory.ConsoleClient.exe
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Inventory.ConsoleClient.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\obj\Debug\Inventory.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\obj\Debug\Inventory.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\obj\Debug\Inventory.ConsoleClient.exe
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\obj\Debug\Inventory.ConsoleClient.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Inventory.Business.Entities.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Inventory.Business.Entities.pdb
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnf\Documents\proyectos\Inventory\Inventory\Inventory.ConsoleClient\bin\Debug\Newtonsoft.Json.xml
